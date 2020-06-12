@@ -1,4 +1,4 @@
-baseURL = "https://github.com/rcjach/hugo-webslides.git"
+baseURL = "https://github.com/iver/hugo-webslides.git"
 languageCode = "en-us"
 title = "A Hugo theme for creating Webslides.js presentations"
 disableKinds = ["sitemap", "RSS"]
@@ -8,8 +8,8 @@ tags = ["slide", "presentation", "responsive", "landing page"]
 features = ["webslides.js", "pre-made template", "shortcodes"]
 
 [params]
-  author = "RCJacH"
-  homepage = "RCJacH.github.io"
+  author = "iver"
+  homepage = "http://iver.mx"
 
 
 [params.webslides]

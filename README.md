@@ -1,6 +1,8 @@
-![Screenshot](https://raw.githubusercontent.com/rcjach/hugo-webslides/master/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/iver/hugo-webslides/master/images/screenshot.png)
 
 # Hugo-WebSlides
+
+Original theme: https://github.com/rcjach/hugo-webslides.git
 
 Hugo-WebSlides is a theme for writing beautiful [WebSlides](https://webslides.tv) presentations in markdown with [Hugo](https://gohugo.io/).
 
@@ -29,13 +31,13 @@ Installation of [Hugo](https://gohugo.io/) (latest version recommended)
 
 Run from the root of your Hugo site:
 ```sh
-$ git clone https://github.com/rcjach/hugo-webslides.git themes/hugo-webslides
+$ git clone https://github.com/iver/hugo-webslides.git themes/hugo-webslides
 ```
 
 Alternatively, you can include this repository as a [git submodule](https://git-scm.com/book/de/v1/Git-Tools-Submodule). This makes it easier to update this theme if you have your Hugo site in git as well:
 
 ```sh
-$ git submodule add https://github.com/rcjach/hugo-webslides.git themes/hugo-webslides
+$ git submodule add https://github.com/iver/hugo-webslides.git themes/hugo-webslides
 ```
 
 ## Preview the theme

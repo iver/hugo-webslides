@@ -8,5 +8,5 @@ bg = "bg-gradient-h"
 ### **Install Now**
 <!-- : .text-intro -->Run from the root of your Hugo site:
 ~~~
-$ git clone https://github.com/RCJacH/hugo-webslides.git themes/hugo-webslides
+$ git clone https://github.com/iver/hugo-webslides themes/hugo-webslides
 ~~~
