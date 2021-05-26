@@ -3789,3 +3789,13 @@ Slides Index
 
 .text-slide-number {
   color: #abc; }
+
+
+.blurry-bg {
+  color: #fff;
+  background-color: rgba(0,0,0,0.65);
+}
+
+.text-intro a, .text-link a {
+  color: aqua;
+}
